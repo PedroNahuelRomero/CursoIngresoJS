@@ -5,6 +5,6 @@ se debe mostrar un mensaje como el siguiente "Esto funciona de maravilla"*/
 function mostrar()
 {
 
-	var ("Esto funciona de maravilla");
+	var ("bienvenido mundo");
 }
 
